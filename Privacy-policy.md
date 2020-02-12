@@ -2,4 +2,5 @@
 
  - No on-disk data store API be used
  - No Internet connection API be used
+ - No LoadLibrary API be used
  
