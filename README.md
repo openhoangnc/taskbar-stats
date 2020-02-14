@@ -9,7 +9,7 @@ Display live system stats on Windows's taskbar
 ## Download:
 #### https://github.com/openhoangnc/taskbar-stats/releases
 
-### Feature
+### Features
 
 - Compact layout
 - Auto choose unit to display (Byte/Kilobyte/Megabyte/...)
