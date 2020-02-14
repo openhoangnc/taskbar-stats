@@ -17,8 +17,11 @@ Display live system stats on Windows's taskbar
 - Update stats every 1 second
 
 ### System requirements
+
 - Windows 10 32bit/64bit
 
+### Privacy policy: [privacy-policy.md](https://github.com/openhoangnc/taskbar-stats/blob/master/Privacy-policy.md)
 
 ### Source code: N/A
+
 ### Reference code: [ref](https://github.com/openhoangnc/taskbar-stats/tree/master/ref)
