@@ -21,3 +21,4 @@ Display live system stats on Windows's taskbar
 
 
 ### Source code: N/A
+### Reference code: [ref](https://github.com/openhoangnc/taskbar-stats/tree/master/ref)
