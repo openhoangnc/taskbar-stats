@@ -13,3 +13,6 @@ Display live system stats on Windows's taskbar
 - Very low resource consuming
 - Zero configuration/option
 - Update stats every 1 second
+
+### System requirements
+- Windows 10 32bit/64bit
