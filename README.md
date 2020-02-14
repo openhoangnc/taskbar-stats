@@ -9,7 +9,7 @@ Display live system stats on Windows's taskbar
 ### Feature
 
 - Compact layout
-- Auto choose unit to display (Byte/Kilo Byte/Mega Byte/...)
+- Auto choose unit to display (Byte/Kilobyte/Megabyte/...)
 - Very low resource consuming
-- Zero configutation/option
+- Zero configuration/option
 - Update stats every 1 second
