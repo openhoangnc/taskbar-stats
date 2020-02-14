@@ -18,3 +18,6 @@ Display live system stats on Windows's taskbar
 
 ### System requirements
 - Windows 10 32bit/64bit
+
+
+### Source code: N/A
