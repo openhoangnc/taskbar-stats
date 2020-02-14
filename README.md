@@ -6,8 +6,7 @@ Display live system stats on Windows's taskbar
 
 ![toolbars](img/toolbars.png "Toolbars menu")
 
-## Download:
-#### https://github.com/openhoangnc/taskbar-stats/releases
+## [Download](https://github.com/openhoangnc/taskbar-stats/releases)
 
 ### Features
 
