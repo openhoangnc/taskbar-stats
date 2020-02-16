@@ -20,8 +20,16 @@ Display live system stats on Windows's taskbar
 
 - Windows 10 32bit/64bit
 
+### [License](https://github.com/openhoangnc/taskbar-stats/blob/master/LICENSE.md)
+This is free of charge software. You are allowed to:
+- Private use
+- Commercial use
+- Distribution
+
 ### Privacy policy: [privacy-policy.md](https://github.com/openhoangnc/taskbar-stats/blob/master/Privacy-policy.md)
 
 ### Source code: N/A
+
+I still consider about open source, at this moment you can access the reference code bellow.
 
 ### Reference code: [ref](https://github.com/openhoangnc/taskbar-stats/tree/master/ref)
