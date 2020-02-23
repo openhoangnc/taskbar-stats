@@ -6,6 +6,8 @@ Display live system stats on Windows's taskbar
 
 ![toolbars](img/toolbars.png "Toolbars menu")
 
+**Note: At the first time install, you might have to right-click on the taskbar 2 times to show menu of TaskbarStats.**
+
 ## [Download](https://github.com/openhoangnc/taskbar-stats/releases)
 
 ### Features
