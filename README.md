@@ -2,6 +2,9 @@
 
 Display live system stats on Windows's taskbar
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/openhoangnc/taskbar-stats?style=flat-square)
+![GitHub all releases](https://img.shields.io/github/downloads/openhoangnc/taskbar-stats/total?style=flat-square)
+
 ![taskbar](img/taskbar-stats.png "Taskbar stats")
 
 ![toolbars](img/toolbars.png "Toolbars menu")
