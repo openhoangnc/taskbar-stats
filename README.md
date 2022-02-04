@@ -29,6 +29,7 @@ Eat to live, live to code
 ### System requirements
 
 - Windows 10 32bit/64bit
+- [Windwos 11 is currently not compatible](https://github.com/openhoangnc/taskbar-stats/issues/31)
 
 ### [License](https://github.com/openhoangnc/taskbar-stats/blob/master/LICENSE.md)
 This is free of charge software. You are allowed to:
